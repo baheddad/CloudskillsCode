@@ -10,6 +10,15 @@
     },
     "adminPassword": {
       "value": "W3lcomeWorld!@"
+    },
+    "newVMName": {
+        "value": "mybaheddad" 
+    },
+    "labName": {
+        "value": "myable" 
+    },
+    "ubuntuOSVersion": {
+        "value": "14.04.2-LTS"
     }
   }
 }
